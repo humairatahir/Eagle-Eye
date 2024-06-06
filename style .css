@@ -1,0 +1,30 @@
+body{
+    overflow-x:hidden;
+}
+h1{
+    font-family: 'Dancing Script',cursive;
+}
+.fa-person-digging{
+    font-size: 70px;
+    color: darkblue;
+}
+.carousel-item .d-block{
+    width:500px;
+}
+.images{
+    float: right ! important;
+
+}
+
+h1{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+  }
+  .card-body img{
+
+       min-width:70% ;
+       max-height: 350px;
+
+
+
+  }
